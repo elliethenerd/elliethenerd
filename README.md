@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elliethenerd
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning how to turn on a laptop
+- 🌱 I’m currently learning how to turn on a laptop (i'm joking)
 - 😄 Pronouns: she/her
 
 <!---
